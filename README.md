@@ -4,12 +4,12 @@ Este Challenge Telecom 2 es una continuación del Challenge Telecom, en el que s
 
 Es el notebook, se requieren algunas bibliotecas como son:
 
-matplotlib
-numpy
-pandas
-plotly.express
-eaborn
-xgboost
-sklearn
-imblearn
+* matplotlib
+* numpy
+* pandas
+* plotly.express
+* seaborn
+* xgboost
+* sklearn
+* imblearn
 
